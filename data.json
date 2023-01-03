@@ -13,7 +13,7 @@
       { "Reading Age": "13 years and up" },
       { "Item Weight": "231 g" }
     ],
-    "images": "https://api.lorem.space/image/shoes?w=640&h=480&r=7714"
+    "images": "https://raw.githubusercontent.com/nithin-prakash-qb/Image_Products/48aa0a50d07f10cffd25e072ab3e169f548c7314/puma%204.jpg"
   },
   {
     "id": 2,
@@ -29,7 +29,7 @@
       { "Reading Age": "13 years and up" },
       { "Item Weight": "231 g" }
     ],
-    "images": "https://api.lorem.space/image/shoes?w=640&h=480&r=7714"
+    "images": "https://raw.githubusercontent.com/nithin-prakash-qb/Image_Products/main/puma%201.jpg"
   },
   {
     "id": 3,
@@ -45,7 +45,7 @@
       { "Reading Age": "13 years and up" },
       { "Item Weight": "231 g" }
     ],
-    "images": "https://api.lorem.space/image/shoes?w=640&h=480&r=7714"
+    "images": "https://raw.githubusercontent.com/nithin-prakash-qb/Image_Products/main/puma%202.jpg"
   },
   {
     "id": 4,
@@ -61,7 +61,7 @@
       { "Reading Age": "13 years and up" },
       { "Item Weight": "231 g" }
     ],
-    "images": "https://api.lorem.space/image/shoes?w=640&h=480&r=7714"
+    "images": "https://raw.githubusercontent.com/nithin-prakash-qb/Image_Products/main/puma%205.jpg"
   },
   {
     "id": 5,
@@ -77,7 +77,7 @@
       { "Reading Age": "13 years and up" },
       { "Item Weight": "231 g" }
     ],
-    "images": "https://api.lorem.space/image/shoes?w=640&h=480&r=7714"
+    "images": "https://raw.githubusercontent.com/nithin-prakash-qb/Image_Products/main/Puma%203.jpg"
   },
   {
     "id": 6,
