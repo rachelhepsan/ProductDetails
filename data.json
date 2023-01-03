@@ -339,7 +339,7 @@
       { "Top material Type": "Engineering Wood" },
       { "Special Feature": "Adjustable" }
     ],
-    "images": "https://api.lorem.space/image/shoes?w=640&h=480&r=7714"
+    "images": "https://raw.githubusercontent.com/nithin-prakash-qb/Image_Products/main/ele1%20(1).jpg"
   },
   {
     "id": 22,
@@ -356,7 +356,7 @@
       { "Top material Type": "Engineering Wood" },
       { "Special Feature": "Adjustable" }
     ],
-    "images": "https://api.lorem.space/image/shoes?w=640&h=480&r=7714"
+    "images": "https://raw.githubusercontent.com/nithin-prakash-qb/Image_Products/main/ele2%20(1).jpg"
   },
   {
     "id": 23,
@@ -373,7 +373,7 @@
       { "Top material Type": "Engineering Wood" },
       { "Special Feature": "Adjustable" }
     ],
-    "images": "https://api.lorem.space/image/shoes?w=640&h=480&r=7714"
+    "images": "https://raw.githubusercontent.com/nithin-prakash-qb/Image_Products/main/ele3%20(1).jpg"
   },
   {
     "id": 24,
@@ -390,7 +390,7 @@
       { "Top material Type": "Engineering Wood" },
       { "Special Feature": "Adjustable" }
     ],
-    "images": "https://api.lorem.space/image/shoes?w=640&h=480&r=7714"
+    "images": "https://raw.githubusercontent.com/nithin-prakash-qb/Image_Products/main/ele4%20(1).jpg"
   },
   {
     "id": 25,
@@ -407,7 +407,7 @@
       { "Top material Type": "Engineering Wood" },
       { "Special Feature": "Adjustable" }
     ],
-    "images": "https://api.lorem.space/image/shoes?w=640&h=480&r=7714"
+    "images": "https://raw.githubusercontent.com/nithin-prakash-qb/Image_Products/main/ele5%20(1).jpg"
   },
   {
     "id": 26,
@@ -423,7 +423,7 @@
       { "Use For ": "Face" },
       { "Country of origin": "India" }
     ],
-    "images": "https://api.lorem.space/image/shoes?w=640&h=480&r=7714"
+    "images": "https://raw.githubusercontent.com/nithin-prakash-qb/Image_Products/main/pc1%20(1).jpg"
   },
   {
     "id": 27,
@@ -439,7 +439,7 @@
       { "Use For ": "Face" },
       { "Country of origin": "India" }
     ],
-    "images": "https://api.lorem.space/image/shoes?w=640&h=480&r=7714"
+    "images": "https://raw.githubusercontent.com/nithin-prakash-qb/Image_Products/main/pc2%20(1).jpg"
   },
   {
     "id": 28,
@@ -455,7 +455,7 @@
       { "Use For ": "Face" },
       { "Country of origin": "India" }
     ],
-    "images": "https://api.lorem.space/image/shoes?w=640&h=480&r=7714"
+    "images": "https://raw.githubusercontent.com/nithin-prakash-qb/Image_Products/main/pc3%20(1).jpg"
   },
   {
     "id": 29,
@@ -471,7 +471,7 @@
       { "Use For ": "Face" },
       { "Country of origin": "India" }
     ],
-    "images": "https://api.lorem.space/image/shoes?w=640&h=480&r=7714"
+    "images": "https://raw.githubusercontent.com/nithin-prakash-qb/Image_Products/main/pc4%20(1).jpg"
   },
   {
     "id": 30,
@@ -487,6 +487,6 @@
       { "Use For ": "Face" },
       { "Country of origin": "India" }
     ],
-    "images": "https://api.lorem.space/image/shoes?w=640&h=480&r=7714"
+    "images": "https://raw.githubusercontent.com/nithin-prakash-qb/Image_Products/main/pc5%20(1).jpg"
   }
 ]
