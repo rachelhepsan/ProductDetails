@@ -13,11 +13,11 @@
       { "Reading Age": "13 years and up" },
       { "Item Weight": "231 g" }
     ],
-    "images": "https://raw.githubusercontent.com/nithin-prakash-qb/Image_Products/main/puma%206.jpg"
+    "images": "https://raw.githubusercontent.com/nithin-prakash-qb/Image_Products/main/b1.jpg"
   },
   {
     "id": 2,
-    "title": "400 days",
+    "title": "The Subtle Art of Not Giving a F*ck",
     "price": 105,
     "description": "The book covers Manson's belief that life's struggles give it meaning and argues that typical self-help books offer meaningless positivity which is neither practical nor helpful, thus improperly approaching the problems many individuals face.",
     "category": "Books",
@@ -29,7 +29,7 @@
       { "Reading Age": "13 years and up" },
       { "Item Weight": "231 g" }
     ],
-    "images": "https://raw.githubusercontent.com/nithin-prakash-qb/Image_Products/main/puma%201.jpg"
+    "images": "https://raw.githubusercontent.com/nithin-prakash-qb/Image_Products/main/book2%20(1).jpg"
   },
   {
     "id": 3,
@@ -45,7 +45,7 @@
       { "Reading Age": "13 years and up" },
       { "Item Weight": "231 g" }
     ],
-    "images": "https://raw.githubusercontent.com/nithin-prakash-qb/Image_Products/main/puma%202.jpg"
+    "images": "https://raw.githubusercontent.com/nithin-prakash-qb/Image_Products/main/book3%20(1).jpg"
   },
   {
     "id": 4,
@@ -61,7 +61,7 @@
       { "Reading Age": "13 years and up" },
       { "Item Weight": "231 g" }
     ],
-    "images": "https://raw.githubusercontent.com/nithin-prakash-qb/Image_Products/main/puma%205.jpg"
+    "images": "https://raw.githubusercontent.com/nithin-prakash-qb/Image_Products/main/book4%20(1).jpg"
   },
   {
     "id": 5,
@@ -77,7 +77,7 @@
       { "Reading Age": "13 years and up" },
       { "Item Weight": "231 g" }
     ],
-    "images": "https://raw.githubusercontent.com/nithin-prakash-qb/Image_Products/main/Puma%203.jpg"
+    "images": "https://raw.githubusercontent.com/nithin-prakash-qb/Image_Products/main/book5%20(1).jpg"
   },
   {
     "id": 6,
